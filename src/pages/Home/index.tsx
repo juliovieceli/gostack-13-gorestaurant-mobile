@@ -35,6 +35,7 @@ const Home: React.FC = () => {
       }}
     >
       <Container>
+        r
         <Image source={Logo} />
         <Title>Uma verdadeira experiência Italiana.</Title>
       </Container>
